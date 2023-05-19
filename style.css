@@ -16,3 +16,16 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
 }
+
+.principal-botao{
+    background-color: var(--batao-azul);
+    color: var(--branco-principal);
+    border-radius: 5px;
+    padding: 16px;
+}
+.principal-botao{
+    background-color: transparente;
+    color: var(--branco-principal);
+    border-radius: 5px;
+    padding: 16px;
+}

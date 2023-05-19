@@ -25,8 +25,9 @@ body{
     text-decoration: none;
     display: block;
 }
-.principal-botao{
-    background-color: transparente;
+.principal-botao-2{
+    background-color: transparent;
+    border: 1px solid var();
     color: var(--branco-principal);
     border-radius: 5px;
     padding: 16px;

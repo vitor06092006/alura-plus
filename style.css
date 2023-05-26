@@ -42,7 +42,7 @@ body{
     padding: 16px;
     text-decoration: none;
     display: block;
-    margin-bottom: 16px;
+    margin-bottom: '16px';
 }
 
 .principal-titulo{

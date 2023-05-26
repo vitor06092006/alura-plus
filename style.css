@@ -56,3 +56,7 @@ body{
 .principla-imagem{
     margin: 16px 0 32px 0;
 }
+
+.principal-caixa{
+    margin: 0 96px;
+}

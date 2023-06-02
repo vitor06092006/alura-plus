@@ -45,10 +45,12 @@ body{
     margin-bottom: '16px';
 }
 
+
 .principal-titulo{
     font-size: 28px;
     font-weight: 700;
 }
+
 
 .principal-aviso{
     font-size: 14px;
@@ -64,6 +66,7 @@ body{
 .principal-caixa{
     margin: 0 96px;
 }
+
 
 .secundaria{
     height: 100vh;

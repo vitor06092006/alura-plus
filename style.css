@@ -34,6 +34,7 @@ body{
     display: block;
     margin-bottom: 16px;
 }
+
 .principal-botao-2{
     background-color: transparent;
     border: 1px solid var(--branco-principal);
@@ -45,28 +46,23 @@ body{
     margin-bottom: '16px';
 }
 
-
 .principal-titulo{
     font-size: 28px;
     font-weight: 700;
 }
-
 
 .principal-aviso{
     font-size: 14px;
     color: var(--Cinza-secundario);
 }
 
-
 .principal-imagem{
     margin: 16px 0 32px 0;
 }
 
-
 .principal-caixa{
     margin: 0 96px;
 }
-
 
 .secundaria{
     height: 100vh;
@@ -75,17 +71,14 @@ body{
     align-items: center;
 }
 
-
 .secundaria-imagem{
     width: 80%;
 }
-
 
 .secundaria-titulo{
     font-weight: 700;
     font-size: 48px;
 }
-
 
 
 .secundaria-texto{

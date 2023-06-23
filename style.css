@@ -95,6 +95,7 @@ body{
     display: flex;
     list-style-type: none;
     margin: 80px 0;
+    justify-content: center;
 }
 
 .dispositivos{

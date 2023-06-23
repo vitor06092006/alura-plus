@@ -101,3 +101,11 @@ body{
 .dispositivos{
     text-align:center;
 }
+
+.dispositivos-titulo{
+    font-size: 48px;
+}
+
+.lista-item{
+    font-size: 32px;
+}
